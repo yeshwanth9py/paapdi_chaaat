@@ -1,7 +1,7 @@
-##working with socket.io (react+express)
-#(dont expect any ui here)
+working with socket.io (react+express)
+(dont expect any ui here)
 
-#Features/wild Fantasies:-
+Features/wild Fantasies:-
 1)global chat
 2)private rooms
 3)personal chats
