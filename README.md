@@ -9,4 +9,6 @@
 5) can send media files
 6) double ticks + blue ticks
 7) notifies other user if typing
+
+
 no more ideas for now
